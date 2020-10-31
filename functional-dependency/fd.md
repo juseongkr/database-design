@@ -33,7 +33,7 @@ xplus({'ssn', 'pnumber'}, F)
 {'plocation', 'pname', 'ename', 'ssn', 'pnumber', 'hours'}
 ```
 
-## **Check K is super key in F**
+## **Check if K is super key in F**
 
 ### function
 ```python
